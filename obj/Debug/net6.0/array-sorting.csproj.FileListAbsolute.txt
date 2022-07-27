@@ -1,0 +1,15 @@
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/bin/Debug/net6.0/array-sorting
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/bin/Debug/net6.0/array-sorting.deps.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/bin/Debug/net6.0/array-sorting.runtimeconfig.json
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/bin/Debug/net6.0/array-sorting.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/bin/Debug/net6.0/array-sorting.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.csproj.AssemblyReference.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.AssemblyInfoInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.AssemblyInfo.cs
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.csproj.CoreCompileInputs.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/refint/array-sorting.dll
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.pdb
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/array-sorting.genruntimeconfig.cache
+/Users/joseramirez/Learning/Diplomado de Video Juegos/2C 2022/Programacion y Logica 01/Tareas/13 - array-sorting/array-sorting/obj/Debug/net6.0/ref/array-sorting.dll
